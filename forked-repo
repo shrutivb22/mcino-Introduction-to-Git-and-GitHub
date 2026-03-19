@@ -1,6 +1,6 @@
 curl -X POST https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/forks
 {
-  "full_name": "your-username/mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "shrutivb22/mcino-Introduction-to-Git-and-GitHub",
   "fork": true,
   "parent": {
     "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"

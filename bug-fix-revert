@@ -1,0 +1,20 @@
+curl -X GET https://api.github.com/repos/shrutivb22/mcino-Introduction-to-Git-and-GitHub/pulls
+[
+  {
+    "state": "open",
+    "title": "Fix typo in README.md",
+    "user": {
+      "login": "shrutivb22"
+    },
+    "head": {
+      "repo": {
+        "full_name": "shrutivb22/mcino-Introduction-to-Git-and-GitHub"
+      }
+    },
+    "base": {
+      "repo": {
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  }
+]
